@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "Name1",
+    "last_name": "Surname1",
+    "email": "user1@example.com",
+    "phone": "9876543201",
+    "address": "Address 1, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2307.07,
+    "created_at": "2026-03-27T07:05:08.974755"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Name2",
+    "last_name": "Surname2",
+    "email": "user2@example.com",
+    "phone": "9876543202",
+    "address": "Address 2, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 3207.55,
+    "created_at": "2026-03-27T07:05:08.974775"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Name3",
+    "last_name": "Surname3",
+    "email": "user3@example.com",
+    "phone": "9876543203",
+    "address": "Address 3, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2274.51,
+    "created_at": "2026-03-27T07:05:08.974782"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Name4",
+    "last_name": "Surname4",
+    "email": "user4@example.com",
+    "phone": "9876543204",
+    "address": "Address 4, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1041.19,
+    "created_at": "2026-03-27T07:05:08.974787"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Name5",
+    "last_name": "Surname5",
+    "email": "user5@example.com",
+    "phone": "9876543205",
+    "address": "Address 5, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4577.08,
+    "created_at": "2026-03-27T07:05:08.974792"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Name6",
+    "last_name": "Surname6",
+    "email": "user6@example.com",
+    "phone": "9876543206",
+    "address": "Address 6, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2963.5,
+    "created_at": "2026-03-27T07:05:08.974797"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Name7",
+    "last_name": "Surname7",
+    "email": "user7@example.com",
+    "phone": "9876543207",
+    "address": "Address 7, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1983.37,
+    "created_at": "2026-03-27T07:05:08.974801"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Name8",
+    "last_name": "Surname8",
+    "email": "user8@example.com",
+    "phone": "9876543208",
+    "address": "Address 8, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4645.83,
+    "created_at": "2026-03-27T07:05:08.974808"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Name9",
+    "last_name": "Surname9",
+    "email": "user9@example.com",
+    "phone": "9876543209",
+    "address": "Address 9, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2761.95,
+    "created_at": "2026-03-27T07:05:08.974812"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Name10",
+    "last_name": "Surname10",
+    "email": "user10@example.com",
+    "phone": "9876543210",
+    "address": "Address 10, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1761.29,
+    "created_at": "2026-03-27T07:05:08.974818"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Name11",
+    "last_name": "Surname11",
+    "email": "user11@example.com",
+    "phone": "9876543211",
+    "address": "Address 11, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 3304.91,
+    "created_at": "2026-03-27T07:05:08.974832"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Name12",
+    "last_name": "Surname12",
+    "email": "user12@example.com",
+    "phone": "9876543212",
+    "address": "Address 12, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1222.63,
+    "created_at": "2026-03-27T07:05:08.974837"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Name13",
+    "last_name": "Surname13",
+    "email": "user13@example.com",
+    "phone": "9876543213",
+    "address": "Address 13, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2516.33,
+    "created_at": "2026-03-27T07:05:08.974842"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Name14",
+    "last_name": "Surname14",
+    "email": "user14@example.com",
+    "phone": "9876543214",
+    "address": "Address 14, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4388.24,
+    "created_at": "2026-03-27T07:05:08.974847"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Name15",
+    "last_name": "Surname15",
+    "email": "user15@example.com",
+    "phone": "9876543215",
+    "address": "Address 15, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 3422.99,
+    "created_at": "2026-03-27T07:05:08.974851"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Name16",
+    "last_name": "Surname16",
+    "email": "user16@example.com",
+    "phone": "9876543216",
+    "address": "Address 16, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4402.32,
+    "created_at": "2026-03-27T07:05:08.974856"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "Name17",
+    "last_name": "Surname17",
+    "email": "user17@example.com",
+    "phone": "9876543217",
+    "address": "Address 17, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2263.19,
+    "created_at": "2026-03-27T07:05:08.974860"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Name18",
+    "last_name": "Surname18",
+    "email": "user18@example.com",
+    "phone": "9876543218",
+    "address": "Address 18, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4550.81,
+    "created_at": "2026-03-27T07:05:08.974865"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Name19",
+    "last_name": "Surname19",
+    "email": "user19@example.com",
+    "phone": "9876543219",
+    "address": "Address 19, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 3921.22,
+    "created_at": "2026-03-27T07:05:08.974869"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Name20",
+    "last_name": "Surname20",
+    "email": "user20@example.com",
+    "phone": "9876543220",
+    "address": "Address 20, City",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2793.31,
+    "created_at": "2026-03-27T07:05:08.974874"
+  }
+]
