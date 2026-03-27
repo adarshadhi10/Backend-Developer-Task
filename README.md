@@ -1,0 +1,3 @@
+This is a a Dockerized microservices pipeline where a Flask service provides data, a FastAPI service ingests and upserts it into PostgreSQL, and exposes APIs for querying — demonstrating end-to-end data flow and system design.
+
+To run this project, you need Docker Desktop installed and running on your system, as the entire application is containerized. On Windows, WSL 2 must be enabled along with virtualization support in the BIOS. Once Docker is properly set up, you can verify the installation using basic Docker commands. Optional tools like Git and Python are useful for development but not required to run the project. After setup, the application can be started using a single Docker Compose command.
